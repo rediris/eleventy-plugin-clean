@@ -32,10 +32,10 @@
     "recursive-copy": "^2.0.14"
   },
   "devDependencies": {
-    "@11ty/eleventy": "1.0.0 - 1.0.2 || ^2.0.0 || ^3.0.0 || 3.0.0-alpha.5 || github:11ty/eleventy#v3.0.0-alpha.5",
+    "@11ty/eleventy": "github:11ty/eleventy#v3.0.0-alpha.5",
     "ava": "^4.3.0"
   },
   "peerDependencies": {
-    "@11ty/eleventy": "1.0.0 - 1.0.2 || ^2.0.0 || ^3.0.0 || 3.0.0-alpha.5 || github:11ty/eleventy#v3.0.0-alpha.5"
+    "@11ty/eleventy": "github:11ty/eleventy#v3.0.0-alpha.5"
   }
 }
